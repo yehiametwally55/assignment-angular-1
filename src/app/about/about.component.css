@@ -1,0 +1,17 @@
+.about{
+    background-color: #1abc9c;
+}
+.divider{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    background-color: #fff;
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+}
